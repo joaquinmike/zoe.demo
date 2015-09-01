@@ -12,5 +12,4 @@ vendor/bin
 /data/
 .gitignore~
 *.local.php
-/config/autoload/
 /common/Authentication/config/dbsession.global.php.dist
